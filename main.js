@@ -7,5 +7,7 @@ function     sub(a, b) {
 }
 
 function     mul(a, b) {
+    // multiplikation function
     return a * b;
+    
 }
